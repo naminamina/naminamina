@@ -21,16 +21,16 @@
 スマートフォンアプリに投稿された文章からユーザーの感情を推定し、それに合わせてロボットが一緒に悲しんだり喜んだりしてくれる、感情共有型のサービスロボットです。
 
 - **担当**: バックエンド開発、スマートフォンアプリとロボットの接続処理、感情推定機能の実装
-- **技術**: バックエンド開発, 感情推定, ロボット連携
+- **技術**: Clip,arudino,GCP
 - **GitHub**: [hackit_happy_robot](https://github.com/KIT-Happy-Robot/hackit_happy_robot)
 - **紹介スライド**: [Canva](https://www.canva.com/design/DAGvD1xMlYk/Yda_ObsWVtZdJxBkr5IZtA/edit)
 
-### 4. 4DX@HOME
+### 4. 4D@HOME
 AIによる動画解析と専用デバイスを組み合わせて、自宅で4DXのような体験ができることを目指したプロダクトです。  
 専用サイトとデバイスを使い、視聴中の映像と同期して振動・光・風・水しぶきなどの演出を発生させ、臨場感のある映像体験を生み出します。
 
-- **担当**: Reactを用いたフロントエンド開発、接続フローや画面遷移の設計、演出状況をリアルタイムに表示するUIの実装
-- **技術**: React, UI/UX, Device Connection
+- **担当**: Reactを用いたフロントエンド開発、接続フローや画面遷移の設計、演出状況をリアルタイムに表示するUIの実装、スマートフォンアプリへの移植
+- **技術**: Kotlin,LLM,arudino,React,GCP
 - **GitHub**: [kz_2504](https://github.com/jphacks/kz_2504)
 - **大学での紹介**: [金沢工業大学の紹介ページ](https://www.kanazawait.ac.jp/kitnews/2025/1113_jphacks.html)
 
@@ -38,5 +38,5 @@ AIによる動画解析と専用デバイスを組み合わせて、自宅で4DX
 金沢工業大学 RoboCup@Home プロジェクトの生活支援ロボット「Mimi」とおしゃべりできるボイスボットシステムです。  
 ブラウザ上で会話すると、IllustratorとLive2Dで自作したアバターが、表情や動きをつけながら可愛くおしゃべりしてくれます。ロボットとのコミュニケーションに感情や親しみやすさを加えることを目指しました。
 
-- **技術**: Live2D, Illustrator, Web, Voice Bot
+- **技術**: Live2D, Illustrator, LLM,
 - **GitHub**: [chat_mimi](https://github.com/naminamina/chat_mimi)
